@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(189, 199, 55);
+}
+
+header {
+    background-color: rgb(125, 199, 174);
+    list-style: none;
+}
+
+main{
+    list-style: none;
+} 
+
+footer {
+    background-color: rgb(68, 105, 105);
+    list-style: none;
+}
+
+form {
+    width: 30%;
+    min-width: 500px;
+    margin: 2px;
+    padding: 1px;
+}
+
+h1 {
+    padding: 1px;
+    color: rgb(250, 250, 250);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+
+p {
+    font-size: 25px;
+}
+
+section {
+   border: solid;
+   margin: 20px;
+   
+}
+
+
+/*section  {
+    background-color: rgb(137, 247, 146);
+    width: 30%;
+    min-width: 500px;
+    display: inline-flex;
+    justify-content: first baseline;
+    flex-wrap: nowrap;
+    align-items: auto; 
+
+    Por hacerlo muy tarde no encuentro la manera de hacer bien el Flexbox, no consigo que quede alineado correctamente ya que se superponen las imagenes
+    } */
+
+/*img    {
+        width: 30%;
+
+    } */
+
+video, img {
+    width: 30%;
+    min-width: 500px;
+    border: solid;
+    border-color: black;
+    align-items: start;
+}
