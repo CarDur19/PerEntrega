@@ -47,7 +47,7 @@ li > a {
 
 section {
    border: solid;
-   margin: 20px;
+   margin: 280px;
    
 }
 
@@ -71,7 +71,7 @@ section {
 
 video, img {
     width: 30%;
-    min-width: 200px;
+    min-width: 280px;
     border: solid;
     border-color: black;
     align-items: start;
