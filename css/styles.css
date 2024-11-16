@@ -60,7 +60,7 @@ section {
 
 video, img {
     width: 30%;
-    min-width: 500px;
+    min-width: 320px;
     border: solid;
     border-color: black;
     align-items: start;
